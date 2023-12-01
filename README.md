@@ -1,24 +1,27 @@
-# Welcome to my profile!
- <div>
+<div align="center">
+   <img align="center" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9745f5&height=150&text=Welcome%20to%20my%20profile!&fontSize=40">
+</div>
+
+<div align="center">
    <a href="https://github.com/PedroH1608">
-   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroH1608&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH1608&layout=donut&langs_count=6&theme=midnight-purple"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PedroH1608&show_icons=true&title_color=9745f5&text_color=ffffff&bg_color=0d1117&icon_color=9745f5&hide_border=true&include_all_commits=true&count_private=true">
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH1608&layout=donut&langs_count=6&title_color=9745f5&text_color=ffffff&bg_color=0d1117&icon_color=9745f5e&hide_border=true">
+</div>
+<div align="center">
+     <a href="https://www.linkedin.com/in/pedro-henrique-oliveira-braga-6ba4a9269/" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+     </a>
 </div>
 
-<div>
-     <a align="center" href="https://www.linkedin.com/in/pedro-henrique-oliveira-braga-6ba4a9269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-# Skills
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+# Knowledge
+<div><br>
+  <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 # Learning
-<div>
-  <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<div><br>
+  <img align="center" alt="JS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
