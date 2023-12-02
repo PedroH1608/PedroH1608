@@ -25,3 +25,10 @@
   <img align="center" alt="JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
+
+<div align="center"><br><br><br><br>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroH1608&repo=The-Mandalorian&show_icons=true&title_color=9745f5&text_color=ffffff&bg_color=0d1117&icon_color=9745f5&hide_border=false)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroH1608&repo=SustenTyres&show_icons=true&title_color=9745f5&text_color=ffffff&bg_color=0d1117&icon_color=9745f5&hide_border=false)
+
+</div>
