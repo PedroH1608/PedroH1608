@@ -27,7 +27,7 @@
 
 <div align="center"><br><br><br><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroH1608&repo=The-Mandalorian&show_icons=true&title_color=9745f5&text_color=ffffff&bg_color=0d1117&icon_color=9745f5&hide_border=false)](https://github.com/PedroH1608/github-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroH1608&repo=github-api&show_icons=true&title_color=9745f5&text_color=ffffff&bg_color=0d1117&icon_color=9745f5&hide_border=false)](https://github.com/PedroH1608/github-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroH1608&repo=SustenTyres&show_icons=true&title_color=9745f5&text_color=ffffff&bg_color=0d1117&icon_color=9745f5&hide_border=false)](https://github.com/PedroH1608/SustenTyres)
 
 </div>
