@@ -1,33 +1,11 @@
-<div align="center">
-   <img align="center" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9745f5&height=150&text=Welcome%20to%20my%20profile!&fontSize=40">
-</div>
+# Welcome to my Github Profile!
 
-<div align="center">
-   <a href="https://github.com/PedroH1608">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PedroH1608&show_icons=true&title_color=9745f5&text_color=ffffff&bg_color=0d1117&icon_color=9745f5&hide_border=true&include_all_commits=true&count_private=true">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH1608&layout=donut&langs_count=6&title_color=9745f5&text_color=ffffff&bg_color=0d1117&icon_color=9745f5e&hide_border=true">
-</div>
-<div align="center">
-     <a href="https://www.linkedin.com/in/pedro-henrique-oliveira-braga-6ba4a9269/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-     </a>
-</div>
+   <div align="center">
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH1608&hide_progress=true&theme=github_dark_dimmed">
+   </div>
 
-# What I Know
-<div><br>
-  <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+# Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Learning
-<div><br>
-  <img align="center" alt="JS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
-
-<div align="center"><br><br><br><br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroH1608&repo=github-api&show_icons=true&title_color=9745f5&text_color=ffffff&bg_color=0d1117&icon_color=9745f5&hide_border=false)](https://github.com/PedroH1608/github-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroH1608&repo=SustenTyres&show_icons=true&title_color=9745f5&text_color=ffffff&bg_color=0d1117&icon_color=9745f5&hide_border=false)](https://github.com/PedroH1608/SustenTyres)
-
-</div>
+# Learning...
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
